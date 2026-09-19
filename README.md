@@ -1,4 +1,6 @@
-# SynClock
+<p align="center"><img src="logo.svg" width="96" height="96" alt="SynClock"></p>
+
+<h1 align="center">SynClock</h1>
 
 **Smart reminder & team productivity app for Android.**
 Offline-first reminders, natural-language scheduling, exact alarms and shared team reminders.
